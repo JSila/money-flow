@@ -1,0 +1,4 @@
+suites:
+    moneyflow_suite:
+        namespace: MoneyFlow
+        psr4_prefix: MoneyFlow

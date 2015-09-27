@@ -1,0 +1,21 @@
+{
+    "name": "jsila/moneyflow",
+    "description": "Library for monitoring and planning company's money flow.",
+    "require-dev": {
+        "phpspec/phpspec": "^2.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jernej Sila",
+            "email": "jernej.sila@gmail.com",
+            "homepage": "http://www.jernejsila.com",
+            "role": "Lead Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MoneyFlow\\": "src/"
+        }
+    }
+}
