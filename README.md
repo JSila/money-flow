@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JSila/money-flow.svg?branch=master)](https://travis-ci.org/JSila/money-flow)
+
 # Money Flow
 
 Purpose of this library is to showcase my PHP knowledge for job application. Which means it's so not suited for production.
